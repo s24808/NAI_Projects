@@ -10,7 +10,7 @@ Wynik rozgrywki:
 
 ![image](https://github.com/user-attachments/assets/b9625eee-cc2e-473a-a0a3-7cd68ae82d20) 
 
-(Wygrywa)
+(Wygrana)
 
 ![image](https://github.com/user-attachments/assets/c29fa928-6b51-4cd9-89ff-c6d1f34e743b)
 
