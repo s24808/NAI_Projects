@@ -5,7 +5,9 @@ Rozgrywka w toku:
 ![image](https://github.com/user-attachments/assets/6503647c-822f-4e75-b13c-9130845cd70e)
 
 Wynik rozgrywki:
+
 (Remix)
+
 ![image](https://github.com/user-attachments/assets/b9625eee-cc2e-473a-a0a3-7cd68ae82d20) 
 
 (Wygrywa)
