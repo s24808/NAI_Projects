@@ -6,12 +6,14 @@ Rozgrywka w toku:
 
 Wynik rozgrywki:
 
-(Remix)
+(Remis)
 
 ![image](https://github.com/user-attachments/assets/b9625eee-cc2e-473a-a0a3-7cd68ae82d20) 
 
 (Wygrywa)
+
 ![image](https://github.com/user-attachments/assets/c29fa928-6b51-4cd9-89ff-c6d1f34e743b)
 
 (Przegrana)
+
 ![image](https://github.com/user-attachments/assets/becc43a4-0e10-4a17-b4d2-8499a6af4169)
