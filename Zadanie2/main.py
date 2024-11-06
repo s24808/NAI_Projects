@@ -1,4 +1,6 @@
 # AUTHORS: Filip Labuda, Jędrzej Stańczewski
+# ENVIRONMENT SETUP: The program requires the skfuzzy, matplotlib and numpy library to run.
+# You can install it using the command "pip install scikit-fuzzy", "pip install matplotlib" and "pip install numpy".
 
 import numpy as np
 import skfuzzy as fuzz
