@@ -5,7 +5,9 @@ Dane wejściowe:
 - 30 (wartość oświetlenia zewnętrzenego w zakresie 0-100),
 - 21 (godzina 21, wieczór w zkaresie 0-24),
 - 1 (wartość 1 oznacza, że pokój jest zajęty, czyli posiada więcej niż 0 osób w pomieszczeniu)
+
 ![image](https://github.com/user-attachments/assets/13f50cfb-83cf-4b93-ad9e-96a326924ad1)
+
 
 Graf do danych wejściowych powyżej:
 - Czarna kreska oznacza poziom intensywności światła w pomieszczeniu na podstawie danych wejściowych
