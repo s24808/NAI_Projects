@@ -19,7 +19,9 @@ Dane wejściowe:
 - 70 (wartość oświetlenia zewnętrzenego w zakresie 0-100),
 - 15 (godzina 15, dzień w zkaresie 0-24),
 - 0 (wartość 0 oznacza, że pokój jest pusty, czyli jest 0 osób w pomieszczeniu)
+
 ![image](https://github.com/user-attachments/assets/f933cdaf-ccee-45f1-acc5-4df285f216d9)
+
 
 Graf do danych wejściowych powyżej:
 - Czarna kreska oznacza poziom intensywności światła w pomieszczeniu na podstawie danych wejściowych
@@ -30,6 +32,7 @@ Dane wejściowe:
 - 90 (wartość oświetlenia zewnętrzenego w zakresie 0-100),
 - 22 (godzina 22, dzień w zkaresie 0-24),
 - 0 (wartość 0 oznacza, że pokój jest pusty, czyli jest 0 osób w pomieszczeniu)
+
 ![image](https://github.com/user-attachments/assets/b91bcf90-2353-4d75-926d-01415d92e6be)
 
 
