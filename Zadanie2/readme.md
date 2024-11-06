@@ -1,6 +1,7 @@
 Przykładowe wywołania dla systemu oświetlenia w pomieszczeniu.
 
-Przykład 1:
+**Przykład 1:**
+
 Dane wejściowe: 
 - 30 (wartość oświetlenia zewnętrzenego w zakresie 0-100),
 - 21 (godzina 21, wieczór w zkaresie 0-24),
@@ -14,7 +15,8 @@ Graf do danych wejściowych powyżej:
 ![image](https://github.com/user-attachments/assets/9c249745-70ae-4d90-b366-6bea1802372f)
 
 
-Przykład 2:
+**Przykład 2:**
+
 Dane wejściowe: 
 - 70 (wartość oświetlenia zewnętrzenego w zakresie 0-100),
 - 15 (godzina 15, dzień w zkaresie 0-24),
@@ -27,7 +29,8 @@ Graf do danych wejściowych powyżej:
 - Czarna kreska oznacza poziom intensywności światła w pomieszczeniu na podstawie danych wejściowych
 ![image](https://github.com/user-attachments/assets/d1d0d248-20c2-45f4-af30-e6c2f12ebab5)
 
-Przykład 3:
+**Przykład 3:**
+
 Dane wejściowe: 
 - 90 (wartość oświetlenia zewnętrzenego w zakresie 0-100),
 - 22 (godzina 22, dzień w zkaresie 0-24),
