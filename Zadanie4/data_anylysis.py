@@ -57,9 +57,9 @@ print("SVM accuracy:", accuracy_svm_abalone)
 # Visualization of Rings column distribution
 plt.figure(figsize=(8, 6))
 sns.histplot(y_abalone, kde=False, bins=15, color='blue')
-plt.title("Rozkład liczby pierścieni (Rings)")
-plt.xlabel("Liczba pierścieni")
-plt.ylabel("Liczba obserwacji")
+plt.title("Distribution of Rings Column")
+plt.xlabel("Number of Rings")
+plt.ylabel("Number of Observations")
 plt.show()
 
 # Importance in Decision Tree
@@ -67,9 +67,9 @@ importances = tree_model_abalone.feature_importances_
 features = X_abalone.columns
 plt.figure(figsize=(10, 6))
 sns.barplot(x=importances, y=features, color='green')
-plt.title("Istotność cech w drzewie decyzyjnym (Abalone)")
-plt.xlabel("Istotność")
-plt.ylabel("Cechy")
+plt.title("Importance in Decision Tree")
+plt.xlabel("Importance")
+plt.ylabel("Features")
 plt.show()
 
 # Confusion matrix for Decision Tree
