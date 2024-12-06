@@ -1,5 +1,7 @@
 Przykłady użycia
+
 Przykład 1:
+
 ![image](https://github.com/user-attachments/assets/30e4a030-e8b7-496a-a67e-4cf341fe77c1)
 
 ![image](https://github.com/user-attachments/assets/b9b124f8-b0b1-4311-ac8e-11d42d987071)
